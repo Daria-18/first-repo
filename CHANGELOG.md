@@ -13,10 +13,3 @@ Este formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.
 - Ficheros Book.java y Member.java
 <<<<<<< HEAD
 
--Se añade el archivo "Vehicle.java".
--Intento 2
-=======
--Se añade el archivo "Vehicle.java".
--Intento 2 de añadir el archivo
-
-feature/add-vehicle-class
